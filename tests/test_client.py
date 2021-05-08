@@ -1,6 +1,6 @@
 import pytest
 
-from click_mqtt.skeleton import fib, main
+from click_mqtt.client import fib, main
 
 __author__ = "Oliver van Porten"
 __copyright__ = "Oliver van Porten"
